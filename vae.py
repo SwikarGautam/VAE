@@ -1,4 +1,4 @@
-import convo_net.ConvoNet as cn
+import ConvoNet.ConvoNet as cn
 import numpy as np
 import pickle
 import matplotlib.pyplot as plt
